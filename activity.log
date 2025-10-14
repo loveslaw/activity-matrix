@@ -1,1 +1,1 @@
-[2025-10-14T11:13:04.000Z] fix: handle timeout on network retry loop (#8)
+[2025-10-14T05:35:10.000Z] refactor: clean up deprecated utility functions (#9)
