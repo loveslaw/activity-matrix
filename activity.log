@@ -1,1 +1,1 @@
-[2025-11-27T12:31:51.000Z] ci: optimize pipeline validation steps (#184)
+[2025-11-28T06:50:04.000Z] perf: reduce memory footprint in event handlers (#185)
