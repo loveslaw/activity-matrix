@@ -1,1 +1,1 @@
-[2025-11-28T12:54:25.000Z] fix: resolve edge case in buffer allocation (#189)
+[2025-11-29T14:21:53.000Z] feat: improve throughput of queue processor (#190)
