@@ -1,1 +1,1 @@
-[2025-12-02T06:38:23.000Z] perf: reduce memory footprint in event handlers (#199)
+[2025-12-03T11:21:35.000Z] fix: handle timeout on network retry loop (#200)
