@@ -1,1 +1,1 @@
-[2026-01-06T04:53:24.000Z] fix: resolve edge case in buffer allocation (#317)
+[2026-01-07T11:26:51.000Z] feat: improve throughput of queue processor (#318)
