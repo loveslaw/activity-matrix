@@ -1,1 +1,1 @@
-[2026-01-08T09:21:29.000Z] fix: handle timeout on network retry loop (#324)
+[2026-01-09T11:06:19.000Z] test: add unit tests for state synchronization (#325)
