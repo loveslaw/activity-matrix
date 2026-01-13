@@ -1,1 +1,1 @@
-[2026-01-13T13:32:06.000Z] feat: add telemetry metrics collection (#340)
+[2026-01-13T04:11:15.000Z] perf: reduce memory footprint in event handlers (#341)
