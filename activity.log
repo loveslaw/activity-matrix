@@ -1,1 +1,1 @@
-[2026-01-12T17:25:41.000Z] perf: streamline serialization bottlenecks (#336)
+[2026-01-13T09:32:55.000Z] fix: resolve edge case in buffer allocation (#337)
