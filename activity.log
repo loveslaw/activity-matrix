@@ -1,1 +1,1 @@
-[2026-02-16T14:24:40.000Z] test: expand integration coverage for parser (#471)
+[2026-02-17T09:19:09.000Z] fix: handle timeout on network retry loop (#472)
