@@ -1,1 +1,1 @@
-[2026-02-18T16:29:29.000Z] test: add unit tests for state synchronization (#480)
+[2026-02-19T07:03:51.000Z] fix: resolve edge case in buffer allocation (#481)
