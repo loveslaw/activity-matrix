@@ -1,1 +1,1 @@
-[2026-03-06T10:22:31.000Z] refactor: clean up deprecated utility functions (#536)
+[2026-03-07T07:42:38.000Z] perf: reduce memory footprint in event handlers (#537)
