@@ -1,1 +1,1 @@
-[2026-03-16T15:14:29.000Z] perf: streamline serialization bottlenecks (#574)
+[2026-03-17T08:04:26.000Z] fix: correct timestamp formatting in loggers (#575)
