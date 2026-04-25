@@ -1,1 +1,1 @@
-[2026-04-24T12:43:01.000Z] refactor: extract helper routines into shared module (#721)
+[2026-04-25T08:55:12.000Z] perf: streamline serialization bottlenecks (#722)
