@@ -1,1 +1,1 @@
-[2026-05-19T03:40:28.000Z] fix: handle timeout on network retry loop (#806)
+[2026-05-20T16:04:56.000Z] feat: add telemetry metrics collection (#807)
