@@ -1,1 +1,1 @@
-[2026-06-08T17:21:40.000Z] chore: bump internal dependency versions (#885)
+[2026-06-08T15:19:25.000Z] fix: handle timeout on network retry loop (#886)
