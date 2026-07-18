@@ -1,1 +1,1 @@
-[2026-07-17T12:46:50.000Z] test: add unit tests for state synchronization (#1025)
+[2026-07-18T08:18:51.000Z] perf: streamline serialization bottlenecks (#1026)
