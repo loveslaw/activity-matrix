@@ -1,1 +1,1 @@
-[2026-07-23T09:58:10.000Z] test: expand integration coverage for parser (#1048)
+[2026-07-24T06:43:06.000Z] perf: reduce memory footprint in event handlers (#1049)
