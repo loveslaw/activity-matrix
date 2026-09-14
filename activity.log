@@ -1,1 +1,1 @@
-[2026-09-14T12:40:59.000Z] fix: correct timestamp formatting in loggers (#1231)
+[2026-09-14T04:54:10.000Z] fix: resolve edge case in buffer allocation (#1232)
